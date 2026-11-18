@@ -73,7 +73,7 @@ Open PowerShell or Command Prompt outside the sandbox:
 cd "c:\Users\SUMIT\.vscode\campusloop"
 python server.py
 ```
-Then visit: `https://superlative-queijadas-72b412.netlify.app/`
+Then visit: `https://gleaming-cendol-02931a.netlify.app`
 
 ---
 
